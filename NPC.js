@@ -1,4 +1,4 @@
-Sabotadores.js
+import Aluno from "./Aluno.js";
 
 class NPC extends Pessoa {
 
@@ -16,4 +16,3 @@ class NPC extends Pessoa {
         }
     }
 }
-

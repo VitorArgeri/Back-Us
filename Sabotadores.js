@@ -1,4 +1,4 @@
-import Pessoa from "./Aluno.js";
+import Aluno from "./Aluno.js";
 
 class Sabotadores extends Pessoa{
 

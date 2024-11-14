@@ -1,3 +1,5 @@
+import Aluno from "./Aluno.js";
+
 class Inocentes {
     
     generateID() {
